@@ -7,6 +7,3 @@ talk to me!!!⠀i (un)fortunately do not bite :-)
 
 ![Description](https://files.catbox.moe/xl8fzk.png)
 
-<p align="center">
-  <img src="https://files.catbox.moe/sinl4o.png" />
-</p>
