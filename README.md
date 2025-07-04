@@ -1,6 +1,6 @@
 <p align="center" 
 
-talk to me!!!⠀i (un)fortunately do not bite :-)
+[kocham cię :-)](dokhyuk)
 ⠀⠀⠀
 
 <p align="center" 
