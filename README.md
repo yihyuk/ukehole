@@ -1,6 +1,5 @@
 <p align="center" 
 
-[kocham cię :-)](dokhyuk)
 ⠀⠀⠀
 
 <p align="center" 
