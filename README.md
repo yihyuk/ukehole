@@ -5,8 +5,11 @@
 
 <p align="center">
   <a href="https://hwanmae.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DOKHYUK">my sophy</a>
+  <a href="https://github.com/DOKHYUK">my sophy</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rentry.co/songmingi">ext.</a>
 </p>
+
+
 
 
 <p align="center">
