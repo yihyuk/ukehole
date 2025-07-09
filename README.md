@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/7x7ksg.gif" alt="Funny gif" />
+  <img src="https://files.catbox.moe/owrp0n.gif" alt="Funny gif" />
 </p>
