@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://hwanmae.atabook.org/">atabook</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rentry.co/songmingi">ext.</a>
+  <a href="https://rentry.co/songmingi">rentry.</a>
 </p>
 
 
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/owrp0n.gif" alt="Funny gif" />
+  <img src="https://files.catbox.moe/i72j0n.jpg" alt="Funny gif" />
 </p>
