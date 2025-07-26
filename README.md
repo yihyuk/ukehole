@@ -7,7 +7,6 @@
   <a href="https://github.com/dokhyuk">my beater♡.</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hwanmae.atabook.org/">atabook.</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://rentry.co/aniteez">rentry.</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/@me">discord.</a>
 </p>
 
 
