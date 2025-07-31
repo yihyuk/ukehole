@@ -6,9 +6,6 @@
   <a href="https://rentry.co/British">Rentry.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-<img src="https://files.catbox.moe/3jy3op.gif"/>
-<p align="center">
 
 <p align="center">
 <img src="https://files.catbox.moe/wm53dr.webp"/>
