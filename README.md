@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/dokhyuk">My beater♡.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hwanmae.atabook.org/">Atabook.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rentry.co/British">Rentry.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rentry.co/sanwoo">Rentry.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
