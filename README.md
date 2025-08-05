@@ -7,14 +7,8 @@
 </p>
 
 
-<p align="center">
-<img src="https://files.catbox.moe/wm53dr.webp"/>
-<img src="https://files.catbox.moe/gf8atv.webp"/>
-<img src="https://files.catbox.moe/xbprw4.webp"/>
-<p align="center">
-
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/1xiedq.gif" alt="Funny gif" />
+  <img src="https://files.catbox.moe/0st67b.gif" alt="Funny gif" />
 </p>
