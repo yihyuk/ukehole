@@ -4,7 +4,7 @@
   <a href="https://github.com/dokhyuk"><b>My beater♡.</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hwanmae.atabook.org/"><b>Ata.</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordid.netlify.app/?id=794646333821681674"><b>Disc.</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rentry.co/sleepcall"><b>Rentry.</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rentry.co/sanwoo"><b>Rentry.</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
