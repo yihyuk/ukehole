@@ -12,5 +12,5 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/u1j3nw.gif" alt="Funny gif" />
+  <img src="https://files.catbox.moe/m0t2yi.jpg" alt="Funny gif" />
 </p>
