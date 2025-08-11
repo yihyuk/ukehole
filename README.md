@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-<b>Me and Sophy (ෆ`꒳´ෆ)</b>
+<b>Me & Sophy ଘ(⸝⸝◞ ̫ ◟)</b>
 </p>
