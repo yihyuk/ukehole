@@ -15,6 +15,4 @@
   <img src="https://files.catbox.moe/m0t2yi.jpg" alt="Funny gif" />
 </p>
 
-<p align="center">
-<b>Me & Sophy ଘ(⸝⸝◞ ̫ ◟)</b>
-</p>
+
